@@ -1,7 +1,7 @@
 # github新建文件及上传指令
 
 ### 1. 创建一个 README.md 文件，并把github端建立的仓库名写进去
-``
+```
 echo "# arm_openpi05" >> README.md
 ```
 ### 2. 把当前文件夹初始化为 Git 本地仓库
